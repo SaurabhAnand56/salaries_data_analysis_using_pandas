@@ -1,7 +1,7 @@
  ![pandas for data analysis](pandas1.png)
                                             <br>**Fig. 1** 
 
-   Welcome to my Repo. In this repo, I have analyzed Salary Dataset[Salary Dataset](Salaries.csv) using Pandas Library with lesser code in Jupyter Notebook so that you can observe the function of every methods in pandas from the basic level.<br>
+   Welcome to my Repo. In this repo, I have analyzed [Salary Dataset](Salaries.csv) using Pandas Library with lesser code in Jupyter Notebook so that you can observe the function of every methods in pandas from the basic level.<br>
    <br>
    <br>First of all let's understand "what is data analysis and why should we use pandas for analysis ?".
    
