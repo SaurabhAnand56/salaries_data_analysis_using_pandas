@@ -25,7 +25,7 @@
   
 ### Introduction to pandas :
 
-   <br> **Fig.2** <br><br>
+  <br>
    Pandas is used as a data-cleaning tool in the field of data science. You can do whatever operation you want in the dataset with this tool. Now question arises, can we clean or change the value in the dataset manually? The answer is yes we can if the size of the dataset is small. What if we have a large dataset then we can not do it manually it will take a lot of time. Pandas makes data science very easy and effective.
    <br>
    To use pandas you need to first import the pandas module in your program
@@ -50,6 +50,28 @@
    ```
  <br>
  
+ # Objective:
+ 1. Display Top 10 Rows of The Dataset
+2. Check Last 10 Rows of The Dataset
+3. Find Shape of Our Dataset (Number of Rows And Number of Columns)
+4. Getting Information About Our Dataset Like Total Number Rows, Total Number of Columns, Datatypes of Each Column And Memory Requirement
+5. Check Null Values In The Dataset
+6. Drop ID, Notes, Agency, and Status Columns
+7. Get Overall Statistics About The Dataframe
+8. Find Occurrence of The Employee Names  (Top 5)
+9. Find The Number of Unique Job Titles
+10. Total Number of Job Titles Contain Captain
+11. Display All the Employee Names From Fire Department
+12. Find Minimum, Maximum, and Average BasePay
+13. Replace 'Not Provided' in EmployeeName' Column to NaN 
+14. Drop The Rows Having 5 Missing Values
+15. Find Job Title of ALBERT PARDINI
+16. How Much ALBERT PARDINI Make (Include Benefits)
+17. Display Name of The Person Having The Highest BasePay
+18. Find Average BasePay of All Employee Per Year 
+19. Find Average BasePay of All Employee Per JobTitle 
+20. Find Average BasePay of Employee Having Job Title ACCOUNTANT  
+21. Find Top 5 Most Common Jobs
  <br>
 
 <script defer src="https://use.fontawesome.com/releases/v5.6.3/js/all.js" integrity="sha384-EIHISlAOj4zgYieurP0SdoiBYfGJKkgWedPHH4jCzpCXLmzVsw1ouK59MuUtP4a1" crossorigin="anonymous"></script>   
